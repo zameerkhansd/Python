@@ -1,0 +1,44 @@
+=========================================================================================================================
+======================================== Welcome Zara's Catering=========================================================
+=========================================================================================================================
+
+(1) Menu
+
+
+(2) Customer Details
+
+
+(3) Marquee
+
+
+
+(4) Meals
+
+
+(5) Print Invoice
+
+
+(6) Exit
+
+When you are presented with the menu, the 6th option is going to be "Exit".
+This will allow you to exit the program
+
+
+----------------------------------------Customer details----------------------------------------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------------------------------------------------------------------------
+Please enter your first name: 
+Please enter your Last name: 
+Please enter your postcode:
+Please enter your number :
+Plese enter your email address: 
+Thank you for your contact information
+-----------------------------------------------------------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+As the program runs you will be asked to input various information. The program will then ask enough questions to be able
+to book the marquee and food for the user. Name, last name, address and phone number will be asked to be inputted. The
+user will then return back to the menu once the program has run through the specific section of the code. The user will
+then allow the you to choose another option as you will be presented with the menu again. Questions presented to the user
+are displayed above.
